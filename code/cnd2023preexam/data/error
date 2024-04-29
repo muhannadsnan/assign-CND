@@ -1,0 +1,32 @@
+[Mon Nov 20 00:00:01.110905 2023] [mpm_prefork:notice] [pid 2428] AH00163: Apache/2.4.57 (Ubuntu) OpenSSL/1.1.1f configured -- resuming normal operations
+[Mon Nov 20 00:00:01.111011 2023] [core:notice] [pid 2428] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 20 02:00:09.691816 2023] [core:info] [pid 990120] [client 199.45.155.33:56612] AH00128: File does not exist: /var/www/html/favicon.ico
+[Mon Nov 20 02:09:33.329088 2023] [core:info] [pid 990120] [client 146.0.74.137:41264] AH00128: File does not exist: /var/www/html/nmaplowercheck1700442573
+[Mon Nov 20 02:09:33.330889 2023] [core:info] [pid 990210] [client 146.0.74.137:41266] AH00128: File does not exist: /var/www/html/Portal/Portal.mwsl
+[Mon Nov 20 02:09:33.380449 2023] [core:info] [pid 990120] [client 146.0.74.137:41268] AH00128: File does not exist: /var/www/html/sdk
+[Mon Nov 20 02:09:33.380795 2023] [core:info] [pid 990210] [client 146.0.74.137:41304] AH00128: File does not exist: /var/www/html/.git/HEAD
+[Mon Nov 20 02:09:33.439144 2023] [core:info] [pid 990120] [client 146.0.74.137:41308] AH00128: File does not exist: /var/www/html/CSS/Miniweb.css
+[Mon Nov 20 02:09:33.439444 2023] [authz_core:error] [pid 990210] [client 146.0.74.137:41318] AH01630: client denied by server configuration: /var/www/html/server-status
+[Mon Nov 20 02:09:33.486081 2023] [core:info] [pid 990210] [client 146.0.74.137:41566] AH00128: File does not exist: /var/www/html/pools/default/buckets
+[Mon Nov 20 02:09:33.638190 2023] [core:info] [pid 990120] [client 146.0.74.137:41568] AH00128: File does not exist: /var/www/html/docs/cplugError.html/
+[Mon Nov 20 02:09:33.689643 2023] [core:info] [pid 990210] [client 146.0.74.137:41570] AH00128: File does not exist: /var/www/html/Portal0000.htm
+[Mon Nov 20 02:09:33.839645 2023] [core:info] [pid 990120] [client 146.0.74.137:41576] AH00128: File does not exist: /var/www/html/vLYA
+[Mon Nov 20 02:09:33.891745 2023] [core:info] [pid 990210] [client 146.0.74.137:41622] AH00128: File does not exist: /var/www/html/HNAP1
+[Mon Nov 20 02:09:33.993714 2023] [core:info] [pid 990586] [client 146.0.74.137:41688] AH00128: File does not exist: /var/www/html/favicon.ico
+[Mon Nov 20 02:09:34.047251 2023] [core:info] [pid 990120] [client 146.0.74.137:41756] AH00128: File does not exist: /var/www/html/pools
+[Mon Nov 20 02:09:34.346897 2023] [core:info] [pid 990210] [client 146.0.74.137:41958] AH00128: File does not exist: /var/www/html/__Additional
+[Mon Nov 20 02:09:38.357218 2023] [core:info] [pid 990210] [client 146.0.74.137:42358] AH00128: File does not exist: /var/www/html/localstart.jsa
+[Mon Nov 20 02:09:38.812183 2023] [core:info] [pid 990597] [client 146.0.74.137:42490] AH00128: File does not exist: /var/www/html/scripts/WPnBr.dll
+[Mon Nov 20 05:30:21.222766 2023] [core:info] [pid 990120] [client 192.53.171.56:56424] AH00128: File does not exist: /var/www/html/WbIZ
+[Mon Nov 20 05:30:21.860705 2023] [core:info] [pid 990586] [client 192.53.171.56:56438] AH00128: File does not exist: /var/www/html/GTIy
+[Mon Nov 20 22:11:42.936717 2023] [core:info] [pid 990594] [client 199.45.155.16:34476] AH00128: File does not exist: /var/www/html/favicon.ico
+[Tue Nov 21 00:00:19.017892 2023] [mpm_prefork:notice] [pid 2428] AH00171: Graceful restart requested, doing restart
+[Tue Nov 21 00:00:19.186461 2023] [mpm_prefork:notice] [pid 2428] AH00163: Apache/2.4.57 (Ubuntu) OpenSSL/1.1.1f configured -- resuming normal operations
+[Tue Nov 21 00:00:19.186551 2023] [core:notice] [pid 2428] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 21 01:33:51.734752 2023] [core:info] [pid 997635] [client 192.46.213.187:38908] AH00128: File does not exist: /var/www/html/NBdh
+[Tue Nov 21 01:33:52.046411 2023] [core:info] [pid 997571] [client 192.46.213.187:38922] AH00128: File does not exist: /var/www/html/DJmb
+[Tue Nov 21 16:15:05.666881 2023] [core:info] [pid 999052] [client 96.126.112.220:55558] AH00128: File does not exist: /var/www/html/7gRl
+[Tue Nov 21 16:15:05.974622 2023] [core:info] [pid 997570] [client 96.126.112.220:55562] AH00128: File does not exist: /var/www/html/2sqG
+[Tue Nov 21 16:51:22.654131 2023] [mpm_prefork:notice] [pid 2428] AH00170: caught SIGWINCH, shutting down gracefully
+[Tue Nov 21 16:53:44.727510 2023] [mpm_prefork:notice] [pid 1495] AH00163: Apache/2.4.57 (Ubuntu) OpenSSL/1.1.1f configured -- resuming normal operations
+[Tue Nov 21 16:53:44.743364 2023] [core:notice] [pid 1495] AH00094: Command line: '/usr/sbin/apache2'

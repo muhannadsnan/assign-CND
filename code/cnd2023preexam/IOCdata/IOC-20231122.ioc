@@ -1,0 +1,16 @@
+# Datestamp this should match the filename 
+20231122
+# The hash value here should be used to check the integrity of the validation tools
+# /opt/security/bin/validate and /opt/security/bin/strcheck
+VALIDATE 5730f0e6112870ca638a21167e670502ef7fd0fffc2d438c0420e5ac63ac4c6e
+STRCHECK 73abb4280520053564fd4917286909ba3b054598b32c9cdfaf1d733e0202cc96
+# IOC  values to check
+IOC de9f83707e8eb38b2028d6f4330f6b5c19a3afac49bb63c7eb8a6ff5e565487a 	/
+IOC 78dae33cf64c6bca2c0a4d2390f88e0fa339029cfc6556a5c6aeb165e57f31a7	/var/www/uploads
+IOC 78dae33cf64c34611e0fa339029cfc65afac49bb6356a5c6aeb16707e5e57fa7   /var/www
+# Strings follow.  These are strings  that may indicate  problems
+STR string directory
+STR IFZvbHVtZSBpbiBkcml2ZS /var/www
+STR PSEXECscv	/data/share/windows
+STR "/eval\(|rot13\(/"  /var/www
+STR "r0nin|m0rtix|upl0ad|r57shell|phpshell|Made.*DrIbi5" /var/www
